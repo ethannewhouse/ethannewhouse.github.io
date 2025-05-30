@@ -1,0 +1,50 @@
+/* This is a single-line comment */
+/* This is my CSS for my first web page */
+
+h1 {
+    color: blue;
+    text-align: center;
+    padding: 5px;
+    font-size: 60px;
+    
+	}
+
+footer {
+	text-align: center;
+	padding: 1px;
+    color: white;
+	font-size: 20px;
+	border-top: 5px solid #000;
+	
+}
+
+section {
+	border-top: 5px solid #000;
+	/*<border-bottom: 5px solid #000;*/
+}
+
+nav {
+	display: block;
+	text-align: center;
+	color: blue;
+	font-size: 20px;
+	padding: 5px;
+	
+}
+
+body {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	background: url(page-bg.jpg);
+}
+
+.page-wrapper {
+	position: relative;
+	text-align: center;
+	margin: 0 auto;
+	width: 750px;
+	background: #b4b4b4;
+	border: 5px solid #000;
+	
+}
