@@ -1,6 +1,11 @@
 /* This is a single-line comment */
 /* This is my CSS for my first web page */
 
+* {
+	font-family:"helvetica";
+	
+	}
+
 h1 {
     color: blue;
     text-align: center;
